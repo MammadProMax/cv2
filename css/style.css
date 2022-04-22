@@ -1,0 +1,124 @@
+body {
+  margin: 0;
+  font-family: "Merriweather", serif;
+  text-align: center;
+}
+h1 {
+  margin: 0 auto;
+  font-family: "Sacramento", cursive;
+  font-size: 5rem;
+  color: #fff7f7da;
+}
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  color: #3f72af;
+  font-weight: normal;
+}
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #3f72af;
+}
+hr {
+  border-style: none;
+  border-top: dotted;
+  border-width: 7px;
+  width: 5%;
+  margin: 2em auto;
+  border-color: #112d4ea1;
+}
+a {
+  color: #f9f7f7;
+}
+.sorc-tag {
+  color: #f9f7f7;
+  margin-bottom: 0;
+}
+.top-p {
+  margin: 0px 0px 0px 150px;
+  position: relative;
+  bottom: 20px;
+  color: #f9f7f7;
+  font-family: "Montserrat", sans-serif;
+  font-size: larger;
+}
+
+.second-cloud {
+  position: absolute;
+  bottom: 280px;
+  left: 0;
+}
+.first-cloud {
+  position: relative;
+  left: 420px;
+  bottom: 30px;
+}
+.mountain {
+  position: relative;
+  top: 3px;
+}
+
+.top-container {
+  background-color: #3f72af;
+  padding-top: 100px;
+  text-align: center;
+  position: relative;
+  width: 100%;
+  height: fit-content;
+}
+.content-container {
+  position: relative;
+  width: 1000px;
+  height: auto;
+  margin: 0 auto;
+  line-height: 1.5;
+}
+.middle-container {
+  background-color: #dbe2ef;
+  padding: 80px 0;
+}
+.skill-row {
+  width: 50%;
+  margin: 50px auto;
+  text-align: left;
+  line-height: 2;
+  display: inline-block;
+}
+.profile-image {
+  width: 227px;
+  height: 235px;
+}
+.coding-image {
+  width: 198px;
+  height: 198px;
+  border-radius: 50%;
+  float: left;
+  margin-right: 35px;
+}
+.learning-image {
+  width: 198px;
+  height: 198px;
+  float: right;
+}
+.opt-skill {
+  margin-left: 70px;
+}
+.contact-paragraph {
+  width: 60%;
+  margin: 40px auto;
+}
+.contact-btn {
+  background-color: #112d4e;
+  color: #f9f7f7;
+  margin-top: 18px;
+  height: 50px;
+  width: 217px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  border-radius: 8px;
+}
+.bottom-container {
+  background-color: #112d4e;
+  padding-top: 20px;
+  padding-bottom: 25px;
+}
